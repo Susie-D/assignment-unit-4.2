@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+  background-color: lavenderblush;
+  background-image: url('./images/downtown.png');
+  background-position: 25% 50%;
+  height: 250px;
+  color: black;
+}
+
+h1 {
+  background-color: lavender;
+}
+
+.info {
+  text-align: center;
+}
+
+h2 {
+  background-color: lavenderblush;
+}
+
+.more-info {
+  text-align: center;
+  background-color: cornsilk;
+}
+
+.moto {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+img {
+  width: 450px;
+}
